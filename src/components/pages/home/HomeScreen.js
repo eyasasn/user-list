@@ -1,8 +1,13 @@
+import Header from '../../common/header/Header'
 import './HomeScreen.css'
 
 function HomeScreen() {
     return (
-        <div>HomeScreen</div>
+
+        <div>
+            <Header />
+
+        </div>
     )
 }
 

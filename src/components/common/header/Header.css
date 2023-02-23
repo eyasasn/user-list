@@ -1,0 +1,15 @@
+.header {
+    height: 100px;
+    width: 100%;
+    background-color: #05D7A0;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+    color: #fffdfd;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
