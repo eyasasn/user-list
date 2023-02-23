@@ -1,0 +1,8 @@
+.all-user-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
